@@ -1,2 +1,2 @@
-I am Salu S Nair
-Saintgits College of Engineering
+I am Salu S Nair.
+Studied at Saintgits College of Engineering
